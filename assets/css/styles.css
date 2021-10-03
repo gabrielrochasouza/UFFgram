@@ -89,7 +89,6 @@ a {
 .logoUsuario {
   display: flex;
   height: auto;
-  justify-content: end;
   align-items: center;
   padding: 0px 12px;
   margin-top: 5px;
@@ -217,7 +216,7 @@ a {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 14px 0 0
+  padding: 0px 0 0
 }
 .seguidores .seguidores__lista li {
 }
